@@ -143,7 +143,7 @@ textarea {
 }
 @keyframes change {
   from {
-    background-image: url(/rare-62.jpg);
+    background-image: url(./akbar.jpeg);
   }
   to {
     background-color: transparent;
